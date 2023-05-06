@@ -25,5 +25,11 @@
 - 💞️ I’m looking to my first job in IT in Russia</br>
 - 📫 How to reach me : [![Telegram Badge](https://img.shields.io/badge/-vikkingsk8-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/vikkingsk8)
 [![VK Badge](https://img.shields.io/badge/-viktorsk8-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/viktorsk8)
-
+### :hammer_and_wrench: Languages and Tools :</br>
+<div>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg' width="40" height="40"/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg' width="40" height="40"/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg' width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
 
