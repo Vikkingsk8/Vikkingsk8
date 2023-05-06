@@ -2,10 +2,10 @@
   <img src='https://media4.giphy.com/media/FlPJcTplkfefDCKq2b/200w.webp?cid=ecf05e47nwfi0zuwxlzginjxh6187a6e6ow8n0hzdrdoiix6&ep=v1_gifs_search&rid=200w.webp&ct=g' width='100'/>
 </div>
 <div id="badges" align='center'>
-  <a href="your-vk-URL">
+  <a href="https://vk.com/viktorsk8">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="your-telegram-URL">
+  <a href="https://t.me/vikkingsk8">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <h1>
@@ -23,6 +23,7 @@
 - 👀 I’m interested in skatebording and writing code</br>
 - 🌱 I’m currently learning Python,SQL,HTTP CSS, and other techologies for back-end</br>
 - 💞️ I’m looking to my first job in IT in Russia</br>
-- 📫 How to reach me : viktor.ermilov.96@mail.ru</br>
+- 📫 How to reach me : [![Telegram Badge](https://img.shields.io/badge/-vikkingsk8-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/vikkingsk8)
+[![VK Badge](https://img.shields.io/badge/-viktorsk8-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/viktorsk8)
 
 
