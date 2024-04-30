@@ -21,7 +21,7 @@
 - Hi, My name is Viktor.</br>
 - 👀 I’m interested in skatebording and writing code</br>
 - 🌱 I’m currently learning Python,SQL, Bi systems and other technologies for data analysis</br>
-- 💞️ I’m looking to my first job in IT in Russia</br>
+- 💞️ I’m working in PULSIteam  (farmacy distributor IT company in Russia)</br>
 - 📫 How to reach me : [![Telegram Badge](https://img.shields.io/badge/-vikkingsk8-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/vikkingsk8)
 [![VK Badge](https://img.shields.io/badge/-viktorsk8-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/viktorsk8)
 ### :hammer_and_wrench: Languages and Tools :</br>
