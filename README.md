@@ -19,7 +19,7 @@
 ### :man_technologist: About Me :<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 
 - Hi, My name is Viktor.</br>
-- 👀 I’m interested in skatebording and writing code</br>
+- 👀 I’m interested in boxing and writing code</br>
 - 🌱 I’m currently learning Python,SQL, Bi systems and other technologies for data analysis</br>
 - 💞️ I’m working in PULSIteam  (farmacy distributor IT company in Russia)</br>
 - 📫 How to reach me : [![Telegram Badge](https://img.shields.io/badge/-vikkingsk8-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/vikkingsk8)
