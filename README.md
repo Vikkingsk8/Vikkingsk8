@@ -3,8 +3,7 @@
     hey there i'm Viktor
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <div align="center">
-  <iframe src="https://giphy.com/embed/9gjNtEX1JwcyA" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-      
+  <img src="https://giphy.com/embed/9gjNtEX1JwcyA" width="480" height="269">
     </div>
   </h1>
 </div>
