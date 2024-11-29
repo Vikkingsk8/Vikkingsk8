@@ -3,7 +3,7 @@
     hey there i'm Viktor
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <div align="center">
-  <a src="https://giphy.com/gifs/cakeday-tried-res-9gjNtEX1JwcyA"></a>
+  <a src="https://giphy.com/gifs/cakeday-tried-res-9gjNtEX1JwcyA.gif"></a>
     </div>
   </h1>
 </div>
