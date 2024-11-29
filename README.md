@@ -3,8 +3,6 @@
     hey there i'm Viktor
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <div align="center">
-
-    </div>
   </h1>
 </div>
 <div id="badges" align='center'>
