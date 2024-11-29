@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <div align="center">
   <iframe src="https://giphy.com/embed/9gjNtEX1JwcyA" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-      <p><a href="https://giphy.com/gifs/cakeday-tried-res-9gjNtEX1JwcyA">via GIPHY</a></p> width="400" height="300"/>
+      
     </div>
   </h1>
 </div>
