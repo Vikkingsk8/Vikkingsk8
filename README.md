@@ -23,8 +23,8 @@
 - 👀 I’m interested in boxing and writing code</br>
 - 🎓 I’m currently learning Python,SQL, Bi systems and other technologies for data analysis and machine learning</br>
 - 📌 Career:</br>
-      - engeener PULSIteam (farmacy distributor IT company in Russia)</br>
-      - Now i work in Central Bank of Russia 🤑</br>
+      - engeener in PULSITeam (farmacy distributor IT company in Russia)</br>
+      - data analyst in Central Bank of Russia 🤑</br>
 - 📫 How to reach me : [![Telegram Badge](https://img.shields.io/badge/-vikkingsk8-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/vikkingsk8)
 [![VK Badge](https://img.shields.io/badge/-viktorsk8-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/viktorsk8)
 ### :hammer_and_wrench: Languages and Tools :</br>
