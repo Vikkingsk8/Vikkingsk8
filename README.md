@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>    
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/vCbhSnhug15F3Vs1K1/giphy.gif" alt="GIF via GIPHY"/>
+</div>
 
 ### :man_technologist: About Me :<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
 
