@@ -25,6 +25,7 @@
 - 📌 Career:</br>
       - engeener in PULSITeam (farmacy distributor IT company in Russia)</br>
       - data analyst in Central Bank of Russia 🤑</br>
+      - Business analyst in VTB Bank of Russia 💳</br>
 - 📫 How to reach me : [![Telegram Badge](https://img.shields.io/badge/-vikkingsk8-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/vikkingsk8)
 [![VK Badge](https://img.shields.io/badge/-viktorsk8-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/viktorsk8)
 ### :hammer_and_wrench: Languages and Tools :</br>
